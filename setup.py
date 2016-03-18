@@ -18,6 +18,8 @@ long_description = (
     read('README.rst')
     + '\n' +
     read('js', 'trix', 'test_trix.txt')
+    + '\n' +
+    read('CHANGES.txt')
     )
 
 setup(
@@ -32,7 +34,8 @@ setup(
         "Programming Language :: Python :: Implementation :: PyPy",
     ],
     keywords='',
-    license='BSD',
+    license='MIT',
+    url='https://github.com/minddistrict/js.trix',
     packages=find_packages(),
     namespace_packages=['js'],
     include_package_data=True,
