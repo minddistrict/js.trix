@@ -5,7 +5,7 @@ CHANGES
 0.9.5.post1 (unreleased)
 ------------------------
 
-- Nothing changed yet.
+- BLUE-2855 Update to Trix 1.0.0.
 
 
 0.9.5 (2016-03-18)
