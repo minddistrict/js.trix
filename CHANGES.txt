@@ -5,13 +5,13 @@ CHANGES
 1.3.0 (unreleased)
 ------------------
 
-- GREEN-1584 Update to Trix 1.3.0.
+- Update to Trix 1.3.0.
 
 
 1.0.0 (2019-02-27)
 ------------------
 
-- BLUE-2855 Update to Trix 1.0.0.
+- Update to Trix 1.0.0.
 
 
 0.9.5 (2016-03-18)
